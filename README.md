@@ -23,7 +23,7 @@ Hi, I'm Rick! I'm a passionate software engineer at Kubus, specializing in moder
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/rickvanosta/) <!-- Update with your actual profile! -->
+- [LinkedIn](https://www.linkedin.com/in/rick-van-osta-29108b142/)
 - [Instagram: @rickvanosta](https://instagram.com/rickvanosta)
 
 ---
